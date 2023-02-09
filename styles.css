@@ -1,0 +1,44 @@
+/* Tag Selector */
+body{
+  background-color: #393E46;
+  text-align: center;
+}
+h1{
+  margin: 30px;
+  font-family: 'Lobster',cursive;
+  text-shadow: 5px 5px #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+img{
+  width: 80%;
+}
+
+/* Heading Section */
+.container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+
+/* player section */
+.player{
+  /* background-color:blue; */
+  display: inline-block;
+  text-align: center;
+
+}
